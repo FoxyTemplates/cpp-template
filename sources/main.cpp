@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 
-    cout << "Initializing" << i << endl;
+    cout << "Initializing" << endl;
 
     // Vector Test
     vector<int>
